@@ -21,6 +21,6 @@ Analyze a suspicious email to detect phishing characteristics using header tools
 - Suspicious links and threatening language
 - Generic greetings, urgency, and deception
 
-**Outcome**
+**Outcome:**
 Developed awareness of phishing methods and hands-on experience analyzing email headers and content.
 
