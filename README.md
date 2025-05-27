@@ -1,4 +1,4 @@
-# Task-2: phishing-email-analysis
+# Task-2: Phishing-email-analysis
 
 **Phishing Email Analysis**
 
