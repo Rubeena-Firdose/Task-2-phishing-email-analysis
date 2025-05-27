@@ -1,0 +1,7 @@
+Return-Path: <admin@maliciousdomain.ru>
+Received: from unknownhost.secure-paypa1.com (unknownhost [198.51.100.22])
+    by mx.google.com with ESMTP id x7si5798676qkg.32.2023.10.10.11.30.45
+Received-SPF: fail (google.com: domain of admin@maliciousdomain.ru does not designate 198.51.100.22 as permitted sender)
+Authentication-Results: spf=fail smtp.mailfrom=maliciousdomain.ru
+DKIM: none
+DMARC: fail
