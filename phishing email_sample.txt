@@ -1,0 +1,29 @@
+Subject: Urgent: Account Suspension Notice
+
+From: PayPal Support <support@secure-paypa1.com>
+To: user@example.com
+
+Dear Customer,
+
+We noticed suspicious activity in your account. As a precaution, we have temporarily suspended access. To restore access, please verify your identity immediately by clicking the link below:
+
+👉 https://secure-paypa1.com/verify
+
+Failure to act within 24 hours will result in permanent account suspension.
+
+Thank you,
+PayPal Security Team
+
+
+
+⚠️ Phishing Indicators in this email:
+
+-Misspelled domain: secure-paypa1.com (spoofed)
+
+-Urgent tone: “Failure to act within 24 hours...”
+
+-Threatening consequence
+
+-Generic greeting ("Dear Customer")
+
+-Suspicious link
