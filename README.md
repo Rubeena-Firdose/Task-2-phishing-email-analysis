@@ -2,7 +2,7 @@
 
 **Phishing Email Analysis**
 
-**Objective**:
+**Objective:**
 Analyze a suspicious email to detect phishing characteristics using header tools and content review.
 
 **Tools Used**
