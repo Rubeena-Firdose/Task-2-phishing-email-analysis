@@ -1,0 +1,22 @@
+Phishing Email Analysis Report
+
+1. Sender Information
+- From: support@secure-paypa1.com
+- The domain is spoofed (note the "1" instead of "l" in "paypal").
+
+2. Header Analysis
+- Return-Path is from a different domain: `admin@maliciousdomain.ru`
+- SPF: FAIL — sender is not authorized
+- DKIM: NONE — no digital signature to verify the sender
+- DMARC: FAIL — domain policy not met
+
+3. Email Body Review
+- Contains a suspicious link: https://secure-paypa1.com/verify
+- Hovering reveals the domain doesn’t match official PayPal
+- Urgent and threatening language used: "account suspension within 24 hours"
+
+4. Grammar/Spelling Issues
+- Slightly awkward phrasing: “To restore access, please verify your identity immediately”
+
+5. Final Verdict
+This is a phishing email designed to steal credentials by spoofing PayPal and using urgency tactics.
