@@ -24,3 +24,6 @@ Analyze a suspicious email to detect phishing characteristics using header tools
 **Outcome:**
 Developed awareness of phishing methods and hands-on experience analyzing email headers and content.
 
+**Conclusion:**
+By reviewing the email content and technical header, we were able to identify clear signs of phishing. This hands-on task improves awareness of email-based threats and enhances our ability to investigate suspicious messages in the future.
+
